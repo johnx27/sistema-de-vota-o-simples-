@@ -1,32 +1,46 @@
-# Sistema de Votação Simples
+# 🗳️ Sistema de Votação Simples
 
-## Sobre o projeto
-Sistema desenvolvido para simular um processo de votação simples, permitindo cadastro de candidatos, registro de votos e contabilização dos resultados.
+## 📌 Sobre o projeto
+Sistema de votação desenvolvido em Java com o objetivo de simular um processo eleitoral simples, permitindo cadastro de candidatos, realização de votos e contabilização dos resultados.
 
-## Tecnologias utilizadas
+O projeto foi criado para praticar lógica de programação, Programação Orientada a Objetos (POO) e organização de regras de negócio.
+
+---
+
+## 🚀 Tecnologias utilizadas
 - Java
-- Spring Boot
-- PostgreSQL
-- Maven
-- JPA/Hibernate
-
-## Funcionalidades
-- Cadastro de candidatos
-- Registro de votos
-- Contagem de votos
-- Exibição do resultado da votação
-
-## Conceitos aplicados
 - Programação Orientada a Objetos (POO)
-- Arquitetura em Camadas
-- API REST
-- Persistência de Dados
-- SOLID
+- Collections
+- Estruturas de Dados
+- Git e GitHub
 
-## Objetivo
-Projeto criado para praticar conceitos de backend utilizando Java e Spring Boot, focando em organização de código, regras de negócio e integração com banco de dados.
+---
 
-## Como executar
-1. Clonar o repositório
-2. Configurar banco PostgreSQL
-3. Executar a aplicação via IntelliJ IDEA
+## ⚙️ Funcionalidades
+- ✅ Cadastro de candidatos
+- ✅ Registro de votos
+- ✅ Contagem automática de votos
+- ✅ Exibição de resultados
+- ✅ Controle de votação
+
+---
+
+## 🧠 Conceitos aplicados
+- Encapsulamento
+- Classes e Objetos
+- Métodos
+- Collections
+- Lógica de programação
+- Organização de código
+- Regras de negócio
+
+---
+
+## 📂 Estrutura do projeto
+
+```bash
+src
+ ┣ model
+ ┣ service
+ ┣ util
+ ┗ main
